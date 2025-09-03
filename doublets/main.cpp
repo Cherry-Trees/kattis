@@ -1,3 +1,5 @@
+// https://open.kattis.com/problems/doublets
+
 #include <iostream>
 #include <string>
 #include <sstream>
