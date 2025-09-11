@@ -5,12 +5,12 @@
 using namespace std;
 
 int main() {
-    int M[101][101];
-    memset(M[0], 0, 101);
+    int M[2001][2001];
+    memset(M[0], 0, 2001);
   
     int N, W;
-    int w[101];
-    int v[101];
+    int w[2001];
+    int v[2001];
   
     while (cin >> W >> N) {
         for (int i = 0; i < N; ++i)
